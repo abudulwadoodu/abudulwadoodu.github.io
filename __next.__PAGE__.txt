@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[2874,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"Navbar"]
+3:I[63438,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"Hero"]
+4:I[98621,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"About"]
+5:I[10870,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"Skills"]
+6:I[4272,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"Experience"]
+7:I[17982,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"Projects"]
+8:I[61181,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"Achievements"]
+9:I[57286,["/_next/static/chunks/3ea18a00f3548dae.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d9f5cca53675f29d.js"],"Contact"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+0:{"buildId":"dLT0fa8Ait9LyHjT9Jo_c","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","footer",null,{"className":"py-20 text-center border-t border-slate-200 dark:border-slate-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6","children":[["$","div",null,{"className":"text-2xl font-bold bg-gradient-to-r from-indigo-500 to-primary bg-clip-text text-transparent mb-4","children":"AW."}],["$","p",null,{"className":"text-secondary text-sm mb-8 max-w-sm mx-auto","children":"Senior Full Stack Developer specializing in secure, scalable, and impactful digital solutions."}],["$","div",null,{"className":"text-secondary text-xs uppercase tracking-widest","children":["© ",2026," Abdul Wadood. All rights reserved."]}]]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/d9f5cca53675f29d.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"loading":null,"isPartial":false}
+c:null
